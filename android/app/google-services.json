@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600528759060",
+    "project_id": "farm-market-final",
+    "storage_bucket": "farm-market-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600528759060:android:560e52f699118cf4503a01",
+        "android_client_info": {
+          "package_name": "com.mddev.farm_market_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgo4D30BeIi3vRld9_PdFfCP3PM5uSVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
